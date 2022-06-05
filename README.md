@@ -1,5 +1,5 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
+# :bomb:Desafio de Projeto sobre Git/GitHub da DIO:bomb:
 Repositório criado para o Desafio de projeto
 
-## Links Úteis
+## :warning:Links Úteis:warning:
 [Sintaxe basica Markrdown](https://www.markdownguide.org/)
